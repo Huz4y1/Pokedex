@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / Build (if you use PyInstaller or similar)
+build/
+dist/
+*.spec
+
+# Produced Cards (Excluding the folder of generated assets)
+produced_cards/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if you have secret API keys)
+*.env
