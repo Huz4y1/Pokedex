@@ -68,3 +68,17 @@ Each Pokemon has a visual health bar:
 
 ## Summary
 This Pokedex project combines data visualization, interactive comparison tools, media integration, and a simplified battle simulation. It serves as both a learning tool and an interactive Pokemon encyclopedia, offering a rich and engaging user experience.
+
+## Installation
+
+### 1. Clone the Repository
+Open your terminal or command prompt and run:
+```bash
+git clone [https://github.com/Huz4y1/Pokedex.git](https://github.com/Huz4y1/Pokedex.git)
+cd Pokedex
+
+Install requirements
+pip install -r requirements.txt
+
+run the program
+python main.py
