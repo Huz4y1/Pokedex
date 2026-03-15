@@ -79,8 +79,6 @@ Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/Huz4y1/Pokedex.git](https://github.com/Huz4y1/Pokedex.git)
 
-
-
 cd Pokedex
 
 pip install -r requirements.txt
