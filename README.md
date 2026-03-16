@@ -79,6 +79,11 @@ cd Pokedex
 
 pip install -r requirements.txt
 
+````
+## Media
+![pokedex](https://github.com/user-attachments/assets/db74cad2-92a4-4b40-b060-99511777816d)
+
+
 python main.py
 
 
